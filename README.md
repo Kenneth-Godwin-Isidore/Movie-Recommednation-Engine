@@ -1,2 +1,2 @@
 # Movie-Recommednation-Engine
-Created different types of recommendation engines.
+Created demograhpic, content-based and collaborative recommendation models.
